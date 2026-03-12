@@ -1,18 +1,18 @@
 ```
- _______________________________________________________
-/ yamhab@github.com                                     \
-| -----------------------                               |
-| OS: Yamin Shihab                                      |
-| Host: Edmonton, Canada                                |
-| Kernel: Unempl*yed                                    |
-| Uptime: 16 years                                      |
-| Locale: English, Arabic                               |
-| Hobbies: Lifting, Music, Reading, Ricing, Gaming      |
-|                                                       |
-| Languages: Rust, C, GDScript, Zig, Shell, Python, Lua |
-| Current Setup: Fedora, GNOME, Firefox, fish, Zed      |
-\ Previous Setup: Arch, Qtile, qutebrowser, Zsh, Neovim /
- -------------------------------------------------------
+ ___________________________________________________________
+/ yamhab@github.com (not an actual address btw)             \
+| -----------------                                         |
+| OS: Yamin Shihab                                          |
+| Host: Edmonton, Alberta, Canada                           |
+| Kernel: Unempl*yed                                        |
+| Uptime: 17 years                                          |
+| Packages: weightlifting, heavy metal, reading, ricing     |
+| Locale: English, Arabic (Iraqi + MSA), French (learning)  |
+|                                                           |
+| Languages: Rust, Zig, C/C++, Shell, Python, GDScript, Lua |
+| Current Setup: Fedora, KDE, Firefox, fish, Zed            |
+\ Previous Setup: Arch, Qtile, qutebrowser, Zsh, Neovim     /
+ -----------------------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
